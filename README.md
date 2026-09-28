@@ -22,7 +22,7 @@ Telegram bot that notifies you when a cryptocurrency hits your target price. Use
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/price-alert-bot.git
+git clone https://github.com/Poxcoin/price-alert-bot.git
 cd price-alert-bot
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
